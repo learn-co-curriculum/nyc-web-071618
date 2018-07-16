@@ -8,4 +8,4 @@
 
 # Lecture Videos and Code:
 
-1. [HashketBall™️ Review]() | [Code]() 🏀
+1. [HashketBall™️ Review]() | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/01-hashketball-review) 🏀
