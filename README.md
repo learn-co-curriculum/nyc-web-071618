@@ -12,3 +12,4 @@
 2. [Hashes and the Internet](https://www.youtube.com/watch?v=BN4KE3ps6gc&feature=youtu.be)  | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/02-hashes-and-internet)
 3. [Intro To OO](https://www.youtube.com/watch?v=gjVcYv_qm6s&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/03-intro-to-oo)
 4. [OO One to Many User Tweet](https://www.youtube.com/watch?v=kMTkLBN4mlI) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/04-oo-one-to-many) 🐦🥚
+5. [OO Many to Many](https://www.youtube.com/watch?v=HYeNKfH70us) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/05-many-to-many-relationships)
