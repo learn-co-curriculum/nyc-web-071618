@@ -14,3 +14,4 @@
 4. [OO One to Many User Tweet](https://www.youtube.com/watch?v=kMTkLBN4mlI) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/04-oo-one-to-many) 🐦🥚
 5. [OO Many to Many](https://www.youtube.com/watch?v=HYeNKfH70us) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/05-many-to-many-relationships)
 6. [Intro to SQL](https://www.youtube.com/watch?v=NfARe7ROpPA&feature=youtu.be) | [Intro to SQL (with audio)](https://www.youtube.com/watch?v=24maeY3xe-c&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/06-intro-sql)
+7. [Intro to Inheritance/ OO My Pets Review](https://www.youtube.com/watch?v=MLj9PeC8wuI) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/07-intro-inheritance-oo-pets-review) 🐕🐶
