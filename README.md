@@ -16,3 +16,4 @@
 6. [Intro to SQL](https://www.youtube.com/watch?v=NfARe7ROpPA&feature=youtu.be) | [Intro to SQL (with audio)](https://www.youtube.com/watch?v=24maeY3xe-c&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/06-intro-sql)
 7. [Intro to Inheritance/ OO My Pets Review](https://www.youtube.com/watch?v=MLj9PeC8wuI) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/07-intro-inheritance-oo-pets-review) 🐕🐶
 8. [Intro to ORM](https://youtu.be/FySRxxCTQIM) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/08-intro-to-orm)
+9. [OO-Ruby Review](https://youtu.be/T52Sl-RD9xs) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/09-oo-ruby-review)
