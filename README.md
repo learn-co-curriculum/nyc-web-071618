@@ -18,3 +18,4 @@
 8. [Intro to ORM](https://youtu.be/FySRxxCTQIM) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/08-intro-to-orm)
 9. [OO-Ruby Review](https://youtu.be/T52Sl-RD9xs) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/09-oo-ruby-review)
 10. [Intro to Active Record](https://www.youtube.com/watch?v=fAZPqWtzNHU) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/10-intro-to-active-record)
+11. [Ruby Debugging](https://www.youtube.com/watch?v=GD4yl3cbKTY) | [Code]
