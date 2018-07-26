@@ -17,4 +17,4 @@
 7. [Intro to Inheritance/ OO My Pets Review](https://www.youtube.com/watch?v=MLj9PeC8wuI) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/07-intro-inheritance-oo-pets-review) 🐕🐶
 8. [Intro to ORM](https://youtu.be/FySRxxCTQIM) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/08-intro-to-orm)
 9. [OO-Ruby Review](https://youtu.be/T52Sl-RD9xs) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/09-oo-ruby-review)
-10. [video]() | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/10-intro-to-active-record)
+10. [Intro to Active Record](https://www.youtube.com/watch?v=fAZPqWtzNHU) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/10-intro-to-active-record)
