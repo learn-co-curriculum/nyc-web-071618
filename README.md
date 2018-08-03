@@ -19,4 +19,5 @@
 9. [OO-Ruby Review](https://youtu.be/T52Sl-RD9xs) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/09-oo-ruby-review)
 10. [Intro to Active Record](https://www.youtube.com/watch?v=fAZPqWtzNHU) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/10-intro-to-active-record)
 11. [Ruby Debugging](https://www.youtube.com/watch?v=GD4yl3cbKTY) | No Code ;)
-12. [Actice Record Review](https://youtu.be/Nu5LuhLxinA) | [Code] (https://github.com/learn-co-students/nyc-web-071618/tree/master/12-active-record-review)
+12. [Actice Record Review](https://youtu.be/Nu5LuhLxinA) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/12-active-record-review)
+13. [Intro to TDD](https://youtu.be/5uD4x8qFlOQ) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/13-intro-to-tdd)
