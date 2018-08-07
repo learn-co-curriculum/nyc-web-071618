@@ -29,3 +29,4 @@
 ## Module 2:
 14. [Intro Sinatra && MVC](https://www.youtube.com/watch?v=LrHcMmYVCOE) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/14-intro-sinatra-mvc)
 15. [Sinatra Forms](https://youtu.be/roygwxECxpE) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/15-sinatra-forms)
+16. [Restful Routing](https://youtu.be/BJj9LC1TUd0) | [Slides](https://docs.google.com/presentation/d/1no3yw_Vw4hBzGDlsEDcubvFnowi-Exjg9FW_VJid_U0/edit?usp=sharing)
