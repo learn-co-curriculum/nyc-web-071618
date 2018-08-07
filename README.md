@@ -28,3 +28,4 @@
 
 ## Module 2:
 14. [Intro Sinatra && MVC](https://www.youtube.com/watch?v=LrHcMmYVCOE) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/14-intro-sinatra-mvc)
+15. [Sinatra Forms](https://youtu.be/roygwxECxpE) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/15-sinatra-forms)
