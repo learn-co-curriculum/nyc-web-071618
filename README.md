@@ -32,4 +32,4 @@
 16. [Restful Routing](https://youtu.be/BJj9LC1TUd0) | [Slides](https://docs.google.com/presentation/d/1no3yw_Vw4hBzGDlsEDcubvFnowi-Exjg9FW_VJid_U0/edit?usp=sharing)
 17. [Intro to Rails](https://www.youtube.com/watch?v=5bOPqvCZgKI&feature=youtu.be) |
 18. [Rails Forms and Validations Turkey Farmr](https://www.youtube.com/watch?v=ssQ2uVVeflI) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/17-rails-validations-turkey-farmr) 🦃
-19. [Rails Review Part 1](https://www.youtube.com/watch?v=QPpa6-cnY8U) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/18-rails-review) ❓
+19. [Rails Review Part 1](https://www.youtube.com/watch?v=QPpa6-cnY8U) [Part 2](https://www.youtube.com/watch?v=zmtpHy5rRsw) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/18-rails-review) ❓
