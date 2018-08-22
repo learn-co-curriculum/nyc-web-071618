@@ -35,3 +35,4 @@
 19. [Rails Review Part 1](https://www.youtube.com/watch?v=QPpa6-cnY8U) [Part 2](https://www.youtube.com/watch?v=zmtpHy5rRsw) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/18-rails-review) ❓
 20. [Rails Forms and Associations Farmr](https://www.youtube.com/watch?v=AKOTSj4KB0M) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/19-rails-associations-forms-farmr) 🐮
 21. [Sessions and Cookies Flavortown™️](https://www.youtube.com/watch?v=1gkSezbL6WQ) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/20-rails-sessions-cookies-flavortown) 🧀
+22. Rails Auth [PART 1 BCrypt & has_secure_password](https://www.youtube.com/watch?v=0tV_4nMI4VU) [PART 2 authenticaion & creating new sessions](https://www.youtube.com/watch?v=Ey5-ehWei_0) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/21-rails-auth)
