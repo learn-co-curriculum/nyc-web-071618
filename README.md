@@ -37,3 +37,4 @@
 21. [Sessions and Cookies Flavortown™️](https://www.youtube.com/watch?v=1gkSezbL6WQ) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/20-rails-sessions-cookies-flavortown) 🧀
 22. Rails Auth [PART 1 BCrypt & has_secure_password](https://www.youtube.com/watch?v=0tbic06FyuA) || [PART 2 authenticaion & creating new sessions](https://www.youtube.com/watch?v=Ey5-ehWei_0) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/21-rails-auth)
 23. [Git Flow README](https://github.com/learn-co-students/nyc-web-071618/tree/master/22-git-workshoppe)
+24. [CSS Fundamentals](https://youtu.be/hWhzHUqlXec) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/23-css-fundamentals)
