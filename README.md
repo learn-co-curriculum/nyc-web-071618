@@ -38,3 +38,9 @@
 22. Rails Auth [PART 1 BCrypt & has_secure_password](https://www.youtube.com/watch?v=0tbic06FyuA) || [PART 2 authenticaion & creating new sessions](https://www.youtube.com/watch?v=Ey5-ehWei_0) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/21-rails-auth)
 23. [Git Flow README](https://github.com/learn-co-students/nyc-web-071618/tree/master/22-git-workshoppe)
 24. [CSS Fundamentals](https://youtu.be/hWhzHUqlXec) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/23-css-fundamentals)
+
+---
+
+## Module 2:
+25. [Intro to JS](https://youtu.be/Cw6wz_jM6Uc) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/24-intro-js) | [Starter repo for experimentation](https://github.com/learn-co-students/nyc-web-071618/tree/master/25-js-gift-starter-repository)
+26. [Variables and Scope](https://youtu.be/7IyVRgUGANU) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/26-scope-closures)
