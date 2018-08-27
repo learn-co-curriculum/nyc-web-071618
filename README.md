@@ -41,6 +41,6 @@
 
 ---
 
-## Module 2:
+## Module 3:
 25. [Intro to JS](https://youtu.be/Cw6wz_jM6Uc) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/24-intro-js) | [Starter repo for experimentation](https://github.com/learn-co-students/nyc-web-071618/tree/master/25-js-gift-starter-repository)
 26. [Variables and Scope](https://youtu.be/7IyVRgUGANU) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/26-scope-closures)
