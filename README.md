@@ -48,3 +48,4 @@
 28. [Review](https://youtu.be/wMMuAYms5Jw) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/28-review)
 29. [Prototype Chain and OO](https://youtu.be/QKVQvXPiDR4) - [Part II](https://youtu.be/lcV_gLg1zaU) - [this, bind, call, apply](https://youtu.be/eDhDTN0SExc) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/29-oo-prototype-chain)
 30. [The Dom](https://youtu.be/QMwKOwBaD2E) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/30-the-dom)
+31. [Event Listeners](https://www.youtube.com/watch?v=YqGZyhnExxM) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/31-event-listeners)
