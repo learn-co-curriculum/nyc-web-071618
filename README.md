@@ -44,3 +44,6 @@
 ## Module 3:
 25. [Intro to JS](https://youtu.be/Cw6wz_jM6Uc) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/24-intro-js) | [Starter repo for experimentation](https://github.com/learn-co-students/nyc-web-071618/tree/master/25-js-gift-starter-repository)
 26. [Variables and Scope](https://youtu.be/7IyVRgUGANU) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/26-scope-closures)
+27. [Functional Programming](https://youtu.be/wMMuAYms5Jw) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/27-functional-programming)
+28. [Review](https://youtu.be/wMMuAYms5Jw) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/28-review)
+29. [Prototype Chain and OO](https://youtu.be/QKVQvXPiDR4) [Part II (plus: this, bind, call, apply)]() | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/29-oo-prototype-chain)
