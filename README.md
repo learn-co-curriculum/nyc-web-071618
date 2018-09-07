@@ -50,4 +50,4 @@
 30. [The Dom](https://youtu.be/QMwKOwBaD2E) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/30-the-dom)
 31. [Event Listeners](https://www.youtube.com/watch?v=YqGZyhnExxM) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/31-event-listeners)
 32. [JS Review Part I](https://www.youtube.com/watch?v=7VjamjgxcmM&feature=youtu.be) | Code: [Review (this keyword)](https://github.com/learn-co-students/nyc-web-071618/tree/master/33-review-this-keyword), [Review (the DOM)](https://github.com/learn-co-students/nyc-web-071618/tree/master/34-review-the-dom)
-33. [Tasklister light review (DOM+AJAX)](https://www.youtube.com/watch?v=3-d8V99vaJ0&feature=youtu.be) | [Code - coming soon]()
+33. [Tasklister light review (DOM+AJAX)](https://www.youtube.com/watch?v=3-d8V99vaJ0&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/35-js-pokemon-search-practice-assignment)
