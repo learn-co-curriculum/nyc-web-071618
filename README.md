@@ -56,5 +56,5 @@
 
 ## Module 4:
 
-35. [Intro to React](https://www.youtube.com/watch?v=A-YpyyRLol0) |[Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/36-Intro-To-React)
-36. [JSX & Props](https://youtu.be/KHH-tJ4torQ) |[Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/37-jsx-and-props)
+35. [Intro to React](https://www.youtube.com/watch?v=A-YpyyRLol0) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/36-Intro-To-React)
+36. [JSX & Props](https://youtu.be/KHH-tJ4torQ) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/37-jsx-and-props)
