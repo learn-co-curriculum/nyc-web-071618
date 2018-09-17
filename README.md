@@ -52,3 +52,8 @@
 32. [JS Review Part I](https://www.youtube.com/watch?v=7VjamjgxcmM&feature=youtu.be) | Code: [Review (this keyword)](https://github.com/learn-co-students/nyc-web-071618/tree/master/33-review-this-keyword), [Review (the DOM)](https://github.com/learn-co-students/nyc-web-071618/tree/master/34-review-the-dom)
 33. [Tasklister light review (DOM+AJAX)](https://www.youtube.com/watch?v=3-d8V99vaJ0&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/35-js-pokemon-search-practice-assignment)
 34. [Pokemon Teams review](https://www.youtube.com/watch?v=Wxkwdhxme0g) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/35-pokemon-teams)
+
+
+## Module 4:
+
+35. [Intro to React](https://www.youtube.com/watch?v=A-YpyyRLol0 |[Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/36-Intro-To-React)
