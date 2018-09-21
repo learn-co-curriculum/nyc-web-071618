@@ -61,4 +61,5 @@
 37. [Props & State Review](https://youtu.be/GfWOA9imB_c) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/38-props-and-state-review)
 38. [Thinking in React](https://www.youtube.com/watch?v=zsOZ9QVhcXs&feature=youtu.be) | [Code](https://github.com/curiositypaths/poesie)
 39. [Hogwarts Review](https://youtu.be/yiM-_umXv7I) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/39-hogwarts-review)
+40. [Lifecycle Methods](https://youtu.be/DNnLv6KT29Q) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/40-react-lifecycle)
 
