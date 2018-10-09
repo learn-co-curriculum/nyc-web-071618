@@ -63,3 +63,6 @@
 39. [Hogwarts Review](https://youtu.be/yiM-_umXv7I) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/39-hogwarts-review)
 40. [Lifecycle Methods](https://youtu.be/DNnLv6KT29Q) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/40-react-lifecycle)
 
+## Module 5
+
+41. [Redux combineReducers & Thunk](https://youtu.be/dWsIrdDhaLo) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/41-combine-reducers-thunk)
