@@ -66,4 +66,7 @@
 ## Module 5
 
 41. [Redux combineReducers & Thunk](https://youtu.be/dWsIrdDhaLo) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/41-combine-reducers-thunk)
-42. **JWT Auth Redux Rails React** [Part 1: LoginForm and Overall Auth Flow™️](https://www.youtube.com/watch?v=9vgZqAZSKkM) [Part 2: Profile and HOC WithAuth](https://www.youtube.com/watch?v=N-dfW0N5OUA) | [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/42-redux-auth-rails-jwt)
+42. **JWT Auth Redux Rails React**
+  - [Part 1: LoginForm and Overall Auth Flow™️](https://www.youtube.com/watch?v=9vgZqAZSKkM)
+  - [Part 2: Profile and HOC WithAuth](https://www.youtube.com/watch?v=N-dfW0N5OUA)
+  - [Code](https://github.com/learn-co-students/nyc-web-071618/tree/master/42-redux-auth-rails-jwt)
